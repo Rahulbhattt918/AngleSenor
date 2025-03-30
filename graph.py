@@ -35,6 +35,7 @@ ax.set_ylabel('Y-axis')
 ax.set_zlabel('Z-axis')
 ax.set_title('Intersection of Triangle with Z=0.5 Plane')
 
+//comment the line
 # Set view angle
 ax.view_init(elev=20, azim=30)
 
